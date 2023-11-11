@@ -1,10 +1,13 @@
-# Simple Expense Tracker
+# Expense Tracker App
 
 ## Overview
 
+### Visual
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlkcGxucWc3ZmpldWttYXViaGUwZDJvbnp5ZjJhc2V1bmlpZjFobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ctY95hj2oUG5rSkIc/giphy.gif' width=600/>
+
 ### Description
 
-Simple Expense Tracker is a mobile app designed to help users manage their day-to-day expenses with ease. It provides a straightforward way to record expenses and keep track of spending.
+Expense Tracker App is a mobile app designed to help users manage their day-to-day expenses with ease. It provides a straightforward way to record expenses and keep track of spending.
 
 ### App Evaluation
 
